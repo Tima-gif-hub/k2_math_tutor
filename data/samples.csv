@@ -1,0 +1,5 @@
+problem,level,answer
+"x + 5 = 7",school,"x = 2"
+"d/dx (x**2 + 3*x)",school,"2*x + 3"
+"\int x dx",school,"x**2/2 + C"
+"x^2 - 4 = 0",school,"x = [-2, 2]"

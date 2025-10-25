@@ -1,0 +1,29 @@
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# Python / backend
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.ruff_cache/
+backend/.mypy_cache/
+backend/.coverage
+backend/htmlcov/
+
+# Environment files
+backend/.env
+.env
+
+# Logs
+*.log
+
+# Editor and OS artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Docker
+*.pid

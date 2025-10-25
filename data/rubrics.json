@@ -1,0 +1,36 @@
+{
+  "accuracy": {
+    "description": "Ensures each algebraic manipulation maintains equality and adheres to mathematical laws.",
+    "scoring": [
+      {
+        "level": "exemplary",
+        "criteria": "All steps are logically sound and mathematically valid."
+      },
+      {
+        "level": "proficient",
+        "criteria": "One minor arithmetic slip that does not derail the solution."
+      },
+      {
+        "level": "emerging",
+        "criteria": "Multiple errors that compromise the final answer."
+      }
+    ]
+  },
+  "explanation": {
+    "description": "Measures clarity of reasoning shared with the student.",
+    "scoring": [
+      {
+        "level": "exemplary",
+        "criteria": "Each step includes a concise, student-friendly rationale."
+      },
+      {
+        "level": "proficient",
+        "criteria": "Most steps are accompanied by helpful explanations."
+      },
+      {
+        "level": "emerging",
+        "criteria": "Explanations are missing or confusing."
+      }
+    ]
+  }
+}
