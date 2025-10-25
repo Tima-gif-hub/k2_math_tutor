@@ -6,7 +6,7 @@ services:
       context: ..
       dockerfile: infra/backend.Dockerfile
     env_file:
-      - ../backend/.env.example
+      - ../backend/.env
     environment:
       K2_API_URL: http://backend:8000/mock-k2
       K2_API_KEY: dev-token
