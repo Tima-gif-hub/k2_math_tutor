@@ -155,3 +155,11 @@ Response:
 3. Ensure the upstream service returns JSON that complies with the schemas built in `backend/app/services/prompt_builder.py`.
 
 For local experimentation without credentials, rely on the built-in mock available under `/mock-k2`.
+
+## Design Assets
+
+High-fidelity UX mocks are stored in `docs/design/` (SVG sources plus PNG previews):
+
+- Solve flow: [solve_v2.svg](docs/design/solve_v2.svg) ([PNG](docs/design/solve_v2.png))
+- Explain flow: [explain_v2.svg](docs/design/explain_v2.svg) ([PNG](docs/design/explain_v2.png))
+- Sandbox playground: [sandbox_v2.svg](docs/design/sandbox_v2.svg) ([PNG](docs/design/sandbox_v2.png))
