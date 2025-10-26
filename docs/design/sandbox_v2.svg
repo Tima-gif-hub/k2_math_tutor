@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0B1220"/>
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1600" height="64" fill="#111827"/>
+  <text x="360" y="32" font-family="Inter,Segoe UI,Arial" font-weight="700" font-size="20" fill="#60A5FA">K2 Math Tutor</text>
+  <text x="360" y="52" font-family="Inter,Segoe UI,Arial" font-size="12" fill="#9CA3AF">Step-by-step math guidance with SymPy validation.</text>
+  <text x="980" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="start">Solve</text><text x="1060" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="start">Explain</text><rect x="1150" y="18" width="92" height="34" rx="8" fill="#3B82F6"/><text x="1196.0" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Sandbox</text>
+  <!-- Central container -->
+  <g transform="translate(360,100)">
+    
+    <rect x="0" y="0" width="520" height="520" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="20" y="28" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600">K2 Sandbox</text>
+    <text x="20" y="42" font-family="Inter" font-size="12" fill="#9CA3AF">Tweak payload parameters to test latency, alternate strategies, and validator behavior.</text>
+    
+    <rect x="20" y="70" width="480" height="150" rx="10" fill="#111827" stroke="#374151"/>
+    <text x="36" y="98" font-family="Inter" font-size="13" fill="#9CA3AF">d/dx (x**3)</text>
+    
+  <text x="20" y="244" font-family="Inter" font-size="12" fill="#9CA3AF">Format</text>
+  <rect x="20" y="254" width="220" height="36" rx="8" fill="#111827" stroke="#374151"/>
+  <text x="36" y="277" font-family="Inter" font-size="13" fill="#E5E7EB">Plain</text>
+  <text x="224" y="276" font-family="Inter" font-size="16" fill="#9CA3AF">▾</text>
+
+  <text x="260" y="244" font-family="Inter" font-size="12" fill="#9CA3AF">Level</text>
+  <rect x="260" y="254" width="240" height="36" rx="8" fill="#111827" stroke="#374151"/>
+  <text x="276" y="277" font-family="Inter" font-size="13" fill="#E5E7EB">School</text>
+  <text x="482" y="276" font-family="Inter" font-size="16" fill="#9CA3AF">▾</text>
+
+  <!-- Checkbox -->
+  <rect x="20" y="308" width="16" height="16" rx="3" fill="#3B82F6"/>
+  <text x="44" y="320" font-family="Inter" font-size="12" fill="#E5E7EB">Request alternate method</text>
+
+  <!-- Execute button -->
+  <rect x="20" y="356" width="180" height="36" rx="8" fill="#3B82F6"/>
+  <text x="110" y="379" font-family="Inter" font-size="13" fill="#FFFFFF" text-anchor="middle">Execute Payload</text>
+
+    <rect x="560" y="0" width="540" height="520" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="580" y="28" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600">RESPONSE JSON</text>
+    
+    
+  <rect x="580" y="40" width="500" height="460" rx="8" fill="#111827" stroke="#374151"/>
+  <text x="600" y="72" font-family="Courier New,monospace" font-size="12" fill="#34D399">// Run the sandbox to inspect raw responses</text>
+
+  </g>
+</svg>

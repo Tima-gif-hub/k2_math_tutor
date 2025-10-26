@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0B1220"/>
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1600" height="64" fill="#111827"/>
+  <text x="360" y="32" font-family="Inter,Segoe UI,Arial" font-weight="700" font-size="20" fill="#60A5FA">K2 Math Tutor</text>
+  <text x="360" y="52" font-family="Inter,Segoe UI,Arial" font-size="12" fill="#9CA3AF">Step-by-step math guidance with SymPy validation.</text>
+  <rect x="980" y="18" width="72" height="34" rx="8" fill="#3B82F6"/><text x="1016.0" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Solve</text><text x="1060" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="start">Explain</text><text x="1150" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="start">Sandbox</text>
+  <!-- Central container -->
+  <g transform="translate(360,100)">
+    
+    <rect x="0" y="0" width="880" height="260" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="20" y="28" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600">PROBLEM</text>
+    
+    
+  <!-- Plain/LaTeX toggle -->
+  <rect x="770" y="8" width="90" height="28" rx="14" fill="#0F172A" stroke="#1F2937"/>
+  <rect x="780" y="12" width="42" height="20" rx="10" fill="#3B82F6"/>
+  <text x="790" y="26" font-family="Inter" font-size="11" fill="#FFFFFF">Plain</text>
+  <text x="830" y="26" font-family="Inter" font-size="11" fill="#9CA3AF">LaTeX</text>
+
+    <rect x="20" y="40" width="840" height="140" rx="10" fill="#111827" stroke="#374151"/>
+    <text x="36" y="68" font-family="Inter" font-size="13" fill="#9CA3AF">x + 5 = 7</text>
+    
+  <!-- Level dropdown -->
+  <text x="20" y="210" font-family="Inter" font-size="12" fill="#9CA3AF">Level</text>
+  <rect x="20" y="220" width="220" height="36" rx="8" fill="#111827" stroke="#374151"/>
+  <text x="36" y="243" font-family="Inter" font-size="13" fill="#E5E7EB">School</text>
+  <text x="224" y="242" font-family="Inter" font-size="16" fill="#9CA3AF">▾</text>
+  <!-- Solve button -->
+  <rect x="280" y="220" width="220" height="36" rx="8" fill="#3B82F6"/>
+  <text x="390" y="243" font-family="Inter" font-size="13" fill="#FFFFFF" text-anchor="middle">Solve Problem</text>
+
+    <rect x="0" y="280" width="880" height="86" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="20" y="308" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600"></text>
+    
+    
+  <text x="20" y="320" font-family="Inter" font-size="10" fill="#9CA3AF" letter-spacing="1">PROBLEM LEVEL</text>
+  <text x="20" y="338" font-family="Inter" font-size="14" fill="#E5E7EB">school</text>
+  <text x="210" y="320" font-family="Inter" font-size="10" fill="#9CA3AF" letter-spacing="1">FORMAT</text>
+  <text x="210" y="338" font-family="Inter" font-size="14" fill="#E5E7EB">plain</text>
+  <text x="380" y="320" font-family="Inter" font-size="10" fill="#9CA3AF" letter-spacing="1">K2 LATENCY</text>
+  <text x="380" y="338" font-family="Inter" font-size="14" fill="#9CA3AF">—</text>
+  <text x="560" y="320" font-family="Inter" font-size="10" fill="#9CA3AF" letter-spacing="1">VALIDATOR</text>
+  <text x="560" y="338" font-family="Inter" font-size="14" fill="#9CA3AF">—</text>
+
+  </g>
+</svg>

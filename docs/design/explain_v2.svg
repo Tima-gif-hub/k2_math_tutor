@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0B1220"/>
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1600" height="64" fill="#111827"/>
+  <text x="360" y="32" font-family="Inter,Segoe UI,Arial" font-weight="700" font-size="20" fill="#60A5FA">K2 Math Tutor</text>
+  <text x="360" y="52" font-family="Inter,Segoe UI,Arial" font-size="12" fill="#9CA3AF">Step-by-step math guidance with SymPy validation.</text>
+  <text x="980" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="start">Solve</text><rect x="1060" y="18" width="72" height="34" rx="8" fill="#3B82F6"/><text x="1096.0" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Explain</text><text x="1150" y="40" font-family="Inter,Segoe UI,Arial" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="start">Sandbox</text>
+  <!-- Central container -->
+  <g transform="translate(360,100)">
+    
+    <rect x="0" y="0" width="520" height="430" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="20" y="28" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600">Problem</text>
+    
+    
+    <rect x="20" y="40" width="480" height="150" rx="10" fill="#111827" stroke="#374151"/>
+    <text x="36" y="68" font-family="Inter" font-size="13" fill="#9CA3AF">x + 5 = 7</text>
+    
+    <rect x="0" y="200" width="520" height="230" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="20" y="228" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600">Student Steps</text>
+    
+    
+    <rect x="20" y="240" width="480" height="150" rx="10" fill="#111827" stroke="#374151"/>
+    <text x="36" y="268" font-family="Inter" font-size="13" fill="#9CA3AF">x = 7 + 5</text>
+    
+  <rect x="20" y="410" width="220" height="36" rx="8" fill="#3B82F6"/>
+  <text x="130" y="433" font-family="Inter" font-size="13" fill="#FFFFFF" text-anchor="middle">Analyze Misconceptions</text>
+
+    <rect x="560" y="0" width="540" height="430" rx="12" fill="#0F172A" stroke="#1F2937"/>
+    <text x="580" y="28" font-family="Inter,Segoe UI,Arial" font-size="14" fill="#E5E7EB" font-weight="600">K2 Diagnostic</text>
+    <text x="580" y="42" font-family="Inter" font-size="12" fill="#9CA3AF">Submit a student solution to surface common misconceptions and corrective feedback.</text>
+    
+  </g>
+</svg>
